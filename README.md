@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **C#, .NET Core**
 
+- 📫 How to reach me **nicatsoltanli03@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nijat soltanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijat soltanov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nijat-soltanov-023660235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijat-soltanov-023660235" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
