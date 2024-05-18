@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">.NET Developer from Azerbaijan</h3>
 💫 About Me:
-🌱 I’m currently work as .NET Developer<br><br>
+
 📫 How to reach me nicatsoltanli03@gmail.com
 
 
