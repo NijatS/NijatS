@@ -34,5 +34,4 @@
 <a href="https://github.com/NijatS">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NijatS&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NijatS&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NijatS&theme=midnight_purple" height="180em" />
 </div>
